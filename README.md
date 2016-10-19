@@ -12,7 +12,7 @@
 Via Composer
 
 ``` bash
-$ composer require christian/laravel-commentable
+$ composer require christianvizarra/laravel-commentable
 ```
 
 And then include the service provider within `app/config/app.php`.
@@ -146,3 +146,6 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 [link-downloads]: https://packagist.org/packages/DraperStudio/laravel-commentable
 [link-author]: https://github.com/DraperStudio
 [link-contributors]: ../../contributors
+=======
+# commentable
+forked of draperstudio/laravel-commentable
