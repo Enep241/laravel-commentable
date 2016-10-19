@@ -1,7 +1,7 @@
 {
     "name": "christianvizarra/laravel-commentable",
     "type": "library",
-    "description": "Commentable Polymorphic Eloquent Models for for Laravel 5",
+    "description": "Forked from DraperStudio - Commentable Polymorphic Eloquent Models for for Laravel 5",
     "keywords": [
         "draperstudio",
         "laravel-commentable"
@@ -16,7 +16,7 @@
     }],
     "require": {
         "php": "^5.6 || ^7.0",
-        "draperstudio/laravel-service-provider": "^0.1",
+        "christianvizarra/laravel-service-provider": "^0.1",
         "illuminate/database": "5.1.* || 5.2.*",
         "kalnoy/nestedset": "^3.1|^4.0"
     },
