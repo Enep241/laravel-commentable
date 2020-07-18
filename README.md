@@ -12,7 +12,7 @@
 Via Composer
 
 ``` bash
-$ composer require christianvizarra/laravel-commentable
+$ composer require enep241/laravel-commentable
 ```
 
 And then include the service provider within `app/config/app.php`.
